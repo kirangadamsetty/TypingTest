@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-bg-container {
+    background-image: url("https://images.pexels.com/photos/698808/pexels-photo-698808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.top-heading {
+    font-family: "Sans-Serif";
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+
+.image {
+    width: 70px;
+    height: 70px;
+    margin-right: 30px;
+}
+
+.counter-element {
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    font-family: "Roboto";
+
+}
+
+.span-element {
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.card-container {
+    width: 100%;
+    border-radius: 10px;
+    padding: 25px;
+    border-color: #9aa5b1;
+    background-image: linear-gradient(to left, blue, black, blue, black);
+}
+
+.random-paragraph {
+    font-family: "Bree-Serif";
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.type-container {
+    width: 100%;
+    border-radius: 10px;
+    padding: 15px;
+    border-color: #9aa5b1;
+    background-color: #ffffff;
+    font-weight: bold;
+    color: #3e4c59;
+    font-family: "Roboto";
+}
+
+.button-element {
+    margin-right: 15px;
+    font-weight: 600;
+    border-radius: 8px;
+    background-color: red;
+}
+
+.button-element_1 {
+    margin-right: 15px;
+    font-weight: 500;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.errorparagraph {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    margin-top: 10px;
+}
